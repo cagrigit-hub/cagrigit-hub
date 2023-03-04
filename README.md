@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Çağrı Kutay Ok</h1>
 <h3 align="center">Fullstack web2/3 developer.</h3>
-
+<h4 align="center">Tryn'a be software architecht.</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagrigit-hub" alt="cagrigit-hub" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kutay_ok" target="blank"><img src="https://img.shields.io/twitter/follow/kutay_ok?logo=twitter&style=for-the-badge" alt="kutay_ok" /></a> </p>
