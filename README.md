@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Çağrı Kutay Ok</h1>
+<h1 align="center">Hi 👋, I'm Kutay</h1>
 <h3 align="center">Fullstack web2/3 developer.</h3>
 <h4 align="center">Tryn'a be a software architecht.</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagrigit-hub" alt="cagrigit-hub" /></a> </p>
